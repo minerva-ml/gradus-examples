@@ -7,7 +7,7 @@
 .pytest_cache
 
 # Working directories
-tutorial/examples/cache/
+tutorials/examples/cache/
 tests/.cache
 
 # Unwanted notebook files
